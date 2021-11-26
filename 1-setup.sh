@@ -82,7 +82,7 @@ PKGS=(
 'breeze-gtk'
 'bridge-utils'
 'btrfs-progs'
-'celluloid' # video players
+# 'celluloid' # video players
 'cmatrix'
 'code' # Visual Studio code
 'cronie'
@@ -103,7 +103,7 @@ PKGS=(
 'fuseiso'
 'gamemode'
 'gcc'
-'gimp' # Photo editing
+# 'gimp' # Photo editing
 'git'
 'gparted' # partition management
 'gptfdisk'
@@ -174,7 +174,7 @@ PKGS=(
 'sddm-kcm'
 'snapper'
 'spectacle'
-'steam'
+# 'steam'
 'sudo'
 'swtpm'
 'synergy'
@@ -190,9 +190,9 @@ PKGS=(
 'virt-viewer'
 'wget'
 'which'
-'wine-gecko'
-'wine-mono'
-'winetricks'
+# 'wine-gecko'
+# 'wine-mono'
+# 'winetricks'
 'xdg-desktop-portal-kde'
 'xdg-user-dirs'
 'zeroconf-ioslave'
